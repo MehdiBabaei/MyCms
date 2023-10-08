@@ -1,0 +1,17 @@
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\bin\Release\DataLayer.dll.config
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\bin\Release\DataLayer.dll
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\bin\Release\EntityFramework.dll
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\bin\Release\System.Web.Mvc.dll
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\bin\Release\EntityFramework.xml
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\obj\Release\DataLayer.Migrations.Initial_Database.resources
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\obj\Release\DataLayer.Migrations.Add_Tags_Page.resources
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\obj\Release\DataLayer.Migrations.Add_AdminLogins.resources
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\obj\Release\DataLayer.csproj.GenerateResource.cache
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\obj\Release\DataLayer.csproj.CopyComplete
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\obj\Release\DataLayer.dll
+C:\Users\Mehdi\source\repos\ASP .NET MVC\MyCms\DataLayer\obj\Release\DataLayer.pdb
